@@ -1,0 +1,6 @@
+﻿  VA_3.cpp
+c:\users\den09\onedrive\documents\visual studio 2015\projects\va_3\va_3\slist.h(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\den09\onedrive\documents\visual studio 2015\projects\va_3\va_3\slist.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+  VA_3.vcxproj -> C:\Users\den09\OneDrive\Documents\Visual Studio 2015\Projects\VA_3\Debug\VA_3.exe

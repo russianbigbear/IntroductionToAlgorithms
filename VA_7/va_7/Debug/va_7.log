@@ -1,0 +1,4 @@
+﻿  VA_7.cpp
+c:\users\den09\documents\visual studio 2015\projects\va_7\va_7\tree.h(120): warning C4715: Tree::calculate_leafs: значение возвращается не при всех путях выполнения
+  va_7.vcxproj -> c:\users\den09\documents\visual studio 2015\Projects\va_7\Debug\va_7.exe
+  va_7.vcxproj -> c:\users\den09\documents\visual studio 2015\Projects\va_7\Debug\va_7.pdb (Full PDB)

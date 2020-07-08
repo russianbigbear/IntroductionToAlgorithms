@@ -1,0 +1,5 @@
+﻿  VA_6.cpp
+c:\users\den09\documents\visual studio 2015\projects\va_6\va_6\tree.h(144): warning C4715: Tree::find: значение возвращается не при всех путях выполнения
+c:\users\den09\documents\visual studio 2015\projects\va_6\va_6\tree.h(154): warning C4715: Tree::likes_keys: значение возвращается не при всех путях выполнения
+  VA_6.vcxproj -> C:\Users\den09\Documents\Visual Studio 2015\Projects\VA_6\Debug\VA_6.exe
+  VA_6.vcxproj -> C:\Users\den09\Documents\Visual Studio 2015\Projects\VA_6\Debug\VA_6.pdb (Full PDB)

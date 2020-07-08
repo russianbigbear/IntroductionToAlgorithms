@@ -1,0 +1,4 @@
+﻿  VA_2.cpp
+c:\users\den09\onedrive\documents\visual studio 2015\projects\va_2\va_2\queue.h(99): warning C4715: Queue::Front: значение возвращается не при всех путях выполнения
+c:\users\den09\onedrive\documents\visual studio 2015\projects\va_2\va_2\queue.h(60): warning C4715: Queue::Pop: значение возвращается не при всех путях выполнения
+  VA_2.vcxproj -> C:\Users\den09\OneDrive\documents\visual studio 2015\Projects\VA_2\Debug\VA_2.exe
